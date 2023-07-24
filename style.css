@@ -409,6 +409,7 @@ span.price{
     height: 55.6px;
     border: none;
     margin-bottom: 15px;
+    resize: none;
 }
 .latest-products .contact .button{
     display: flex;
